@@ -1,0 +1,12 @@
+{
+    "name": "root/jurnal",
+    "authors": [
+        {
+            "name": "py",
+            "email": "py@gmail.com"
+        }
+    ],
+    "require": {
+		"mpdf/mpdf": "^6.1"
+	}
+}
